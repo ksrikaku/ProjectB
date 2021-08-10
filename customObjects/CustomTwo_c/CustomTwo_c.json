@@ -1,0 +1,9 @@
+{
+  "recordNameCaseSensitiveFlag" : false,
+  "displayLabel" : "CustomTwo",
+  "name" : "CustomTwo",
+  "recordNameLabel" : "Name",
+  "allowDuplicateRecordNameFlag" : false,
+  "pluralLabel" : "CustomTwo",
+  "recordNameDataType" : "TEXT"
+}

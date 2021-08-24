@@ -4,6 +4,6 @@
   "name" : "CustomOne",
   "recordNameLabel" : "Name",
   "allowDuplicateRecordNameFlag" : false,
-  "pluralLabel" : "CustomOne",
+  "pluralLabel" : "Custom One",
   "recordNameDataType" : "TEXT"
 }
